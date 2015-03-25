@@ -1,0 +1,23 @@
+{
+  "name": "racer-wiki",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^3.0.1",
+    "express": "~3.4.8",
+    "racer-bundle": "^0.1.1",
+    "racer": "^0.6.0-alpha31",
+    "racer-browserchannel": "~0.1.1",
+    "redis": "^0.12.1",
+    "livedb-mongo": "~0.3.0",
+    "compression": "^1.4.3",
+    "markdown": "^0.5.0"
+  }
+}

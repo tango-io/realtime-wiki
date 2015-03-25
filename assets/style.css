@@ -1,0 +1,19 @@
+#editor-container {
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  bottom: 24px;
+  left: 24px;
+}
+#editor {
+  font: 16px/1.2 sans-serif;
+  padding: 4px 7px;
+  height: 100%;
+  width: 100%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+  background: #ddd;
+}
